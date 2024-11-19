@@ -1,0 +1,31 @@
+
+body{
+	margin: 0;
+	background: orange;
+
+}
+.airmax{
+	width: 1050px;
+	height: auto;
+	margin-right: 15px;
+	float: right;
+	background: slate grey;
+	border: 1px solid black;
+	border-radius: 5px;
+	border-top: 10px;
+	
+}
+.air{
+	margin: 5px;
+	border:1px solid;
+	float: right;
+	margin-right: 10px;
+}
+.air img{
+	border-radius: 5px;
+}
+.description{
+	padding: 0px;
+	text-align: center;
+	font-weight: bold;
+}
